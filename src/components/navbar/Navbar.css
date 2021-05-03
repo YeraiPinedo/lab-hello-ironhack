@@ -1,0 +1,13 @@
+nav {
+    background-color: #1f2635;
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+}
+.logo {
+    padding-left: 20px;
+}
+.menuTop {
+    height: 20px;
+    padding: 20px 20px;
+}

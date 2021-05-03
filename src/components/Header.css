@@ -1,0 +1,14 @@
+.hero {
+    text-align: center;
+    background-color: #1f2635;
+    margin: 0;
+    height: 600px;
+}
+.hero h1 {
+    color: #fff;
+    margin-top: 0;
+    padding-top: 150px;
+}
+.hero p {
+    color: #fff;
+}
